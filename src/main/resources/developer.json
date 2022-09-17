@@ -1,0 +1,1 @@
+[{"id":1,"firstName":"lol","lastName":"rer","skillList":[{"id":1,"name":"Active"},{"id":2,"name":"Creative"}],"specialty":{"id":1,"name":"Active"},"status":"DELETED"},{"id":2,"firstName":"Lolo","lastName":"lo","skillList":[{"id":1,"name":"CheckFirst"},{"id":2,"name":"Creative"}],"specialty":{"id":1,"name":"Active"},"status":"ACTIVE"}]
